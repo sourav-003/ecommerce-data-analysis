@@ -10,7 +10,8 @@ This project showcases a comprehensive analysis of an e-commerce dataset using \
 
 
 
-\- \*\*`ecommerce project.sql`\*\*  
+- 📄 [ecommerce project.sql](https://github.com/sourav-003/ecommerce-data-analysis/blob/main/ecommerce%20project.sql)
+
 
 &nbsp; Contains SQL scripts for:
 
@@ -22,7 +23,8 @@ This project showcases a comprehensive analysis of an e-commerce dataset using \
 
 
 
-\- \*\*`ecommerce project.pbix`\*\*  
+👉 [Click here to view interactive dashboard](https://app.powerbi.com/view?r=your_public_link)
+
 
 &nbsp; Power BI file with dashboards covering:
 
