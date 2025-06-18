@@ -38,7 +38,7 @@ This project showcases a comprehensive analysis of an e-commerce dataset using \
 
 ## 📸 Power BI Dashboard Preview
 
-![Delivery Insights](dashboard1.png)  
+![Delivery Insights](https://github.com/sourav-003/ecommerce-data-analysis/blob/main/dashboard1.png.png)
 *Delivery time, payment trends, customer ratings, and freight cost analysis*
 
 ![Category & Revenue Analysis](dashboard2.png)  
