@@ -41,7 +41,7 @@ This project showcases a comprehensive analysis of an e-commerce dataset using \
 ![Delivery Insights](https://github.com/sourav-003/ecommerce-data-analysis/blob/main/dashboard1.png.png)
 *Delivery time, payment trends, customer ratings, and freight cost analysis*
 
-![Category & Revenue Analysis](dashboard2.png)  
+![Category & Revenue Analysis](https://github.com/sourav-003/ecommerce-data-analysis/blob/main/dashboard2.png.png) 
 *Top product categories, sales by rating, and revenue growth over time*
 
 
