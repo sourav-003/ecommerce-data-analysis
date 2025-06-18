@@ -36,6 +36,14 @@ This project showcases a comprehensive analysis of an e-commerce dataset using \
 
 &nbsp; - Repeat customer analysis and cancellation metrics
 
+## 📸 Power BI Dashboard Preview
+
+![Delivery Insights](dashboard1.png)  
+*Delivery time, payment trends, customer ratings, and freight cost analysis*
+
+![Category & Revenue Analysis](dashboard2.png)  
+*Top product categories, sales by rating, and revenue growth over time*
+
 
 
 \## 📊 Key Analytical Objectives
